@@ -1,0 +1,35 @@
+.react__profile__image {
+    top: 36px;
+    width: 348px;
+    padding: 0;
+    left: 50%;
+    right: 50%;
+    border-radius: 11rem;
+}
+
+.home__portfolio__page{
+    display: flex;
+    flex-direction: row;
+}
+
+.home__img__and__header{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 58%;
+    align-items: center;
+    right: 50%;
+    top: 15%;
+
+}
+
+h1{
+    font-size: 100px;
+    color: #a2d4de;
+    width: 690px;
+    text-align: center;
+}
+
+body{
+    background-color: #fff;
+}

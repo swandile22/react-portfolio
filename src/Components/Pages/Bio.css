@@ -1,0 +1,86 @@
+.bio__portfolio__page{
+    display: flex;
+    flex-direction: row;
+}
+
+.react__bio__image{
+    width: 200px;
+    height: 200px;
+    padding: 0;
+    border-radius: 11rem;
+    position: absolute;
+    top: 29rem;
+    left: 62rem;
+
+}
+
+.bio__img__and__header{
+    padding-left: 27%;
+    display: flex;
+    flex-direction: column;
+    left: 58%;
+    align-items: center;
+    right: 50%;
+    top: 15%;
+}
+
+.first__bio__paragraph{
+    color: white;
+    background-color: #a2d4de;
+    border-radius: 54px;
+    padding: 50px;
+    position: absolute;
+    margin-left: 0;
+    right: 65rem;
+    top: 16rem;
+    width: 26%;
+    font-size: 18px;
+    line-height: 24px;
+
+}
+
+h1{
+    margin-top: 0;
+}
+
+.second__bio__paragraph{
+    color: white;
+    background-color: #a2d4de;
+    border-radius: 54px;
+    padding: 50px;
+    position: absolute;
+    margin-left: 0;
+    right: 65rem;
+    top: 38rem;
+    width: 26%;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.third__bio__paragraph{
+    color: white;
+    background-color: #a2d4de;
+    border-radius: 54px;
+    padding: 50px;
+    position: absolute;
+    margin-left: 0;
+    right: 2rem;
+    top: 38rem;
+    width: 26%;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.fourth__bio__paragraph{
+    color: white;
+    background-color: #a2d4de;
+    border-radius: 54px;
+    padding: 50px;
+    position: absolute;
+    margin-left: 0;
+    right: 2rem;
+    top: 16rem;
+    width: 26%;
+    font-size: 18px;
+    line-height: 24px;
+}
